@@ -1,0 +1,90 @@
+Introdução à engenharia de software
+------------------------------------
+
+Pontos Importantes
+-------------------
+
+    1. Engenharia de software é uma disciplina de engenharia que se preocupa com todos os aspectos da produção
+de software.
+
+    2. Software não é apenas um programa ou programas; ele inclui também a documentação. Os atributos princi-
+pais de um produto de software são manutenibilidade, confiança, proteção, eficiência e aceitabilidade.
+
+    3. O processo de software inclui todas as atividades envolvidas no desenvolvimento do software. Atividades
+de alto nível de especificação, desenvolvimento, validação e evolução são parte de todos os processos de
+software.
+
+    4. As ideias fundamentais da engenharia de software são universalmente aplicáveis para todos os tipos de desen-
+volvimento de sistemas. Esses fundamentos incluem processos de software, confiança, proteção, requisitos e
+reúso.
+
+    5. Existem vários tipos diferentes de sistemas, e cada um requer ferramentas e técnicas de engenharia de software
+adequadas a seu desenvolvimento. Existem poucas, se houver alguma, técnicas específicas de projeto e imple-
+mentação aplicáveis para todos os tipos de sistemas.
+
+    6. As ideias básicas da engenharia de software são aplicáveis a todos os tipos de sistemas de software. Esses
+fundamentos incluem processos de software gerenciados, confiança e proteção de software, engenharia de
+requisitos e reúso de software.
+
+    7. Engenheiros de software têm responsabilidades com a profissão de engenharia e com a sociedade. Eles não
+devem se preocupar apenas com as questões técnicas.
+
+    8. Sociedades profissionais publicam códigos de conduta que definem os padrões de comportamento esperado
+de seus membros.
+
+Exercícios
+-----------
+    1.1 Explique por que software profissional não é apenas os programas que são desenvolvidos para o cliente.
+        R:
+        ---
+            Um sistema de software desenvolvido profissionalmente é, com frequência, mais do que apenas um programa; ele normalmente consiste em uma série de programas separados e arquivos de configuração que são usados para configurar esses programas. Isso pode incluir documentação do sistema, que descreve a sua estrutura; documentação do usuário, que explica como usar o sistema; e sites, para usuários baixarem a informação recente do produto.
+
+    1.2 Qual a diferença mais importante entre o desenvolvimento de um produto genérico de software e o desenvolvimento de software sob demanda? O que isso pode significar na prática para usuários de produtos de software genérico?
+        R:
+        --- 
+            Se você está escrevendo um programa para si mesmo, que ninguém mais usará, você não precisa se preocupar em escrever o manual do programa, documentar sua arquitetura etc. No entanto, se você está escrevendo um software que outras pessoas usarão e no qual outros engenheiros farão alterações, então você provavelmente deve fornecer informação adicional, assim como o código do programa.
+
+    1.3 Quais são os quatro atributos importantes que todo software profissional deve possuir? Sugira outros quatro atributos que, às vezes, podem ser significantes?
+        R:
+        --- 
+            - Manutenibilidade: O software deve ser escrito de forma que possa evoluir para atender às necessidades dos clientes. Esse é um atributo crítico, porque a mudança de software é um requisito inevitável de um ambiente de negócio em mudança.
+
+            - Confiança e proteção: A confiança do software inclui uma série de características como confiabilidade, proteção e segurança. Um software  confiável não deve causar prejuízos físicos ou econômicos no caso de falha de sistema. Usuários maliciosos não devem ser capazes de acessar ou prejudicar o sistema.
+
+            - Eficiência: O software não deve desperdiçar os recursos do sistema, como memória e ciclos do processador. Portanto, eficiência inclui capacidade de resposta, tempo de processamento, uso de memória etc.
+
+            - O software deve ser aceitável para o tipo de usuário para o qual foi projetado. Isso significa que deve ser compreensível, usável e compatível com outros sistemas usados por ele.
+
+    1.4 Além dos desafios de heterogeneidade, mudanças sociais e corporativas, confiança e proteção, identifique outros problemas e desafios que a engenharia de software provavelmente enfrentará no século XXI (Dica: pense no meio ambiente).
+        R:
+        ---
+            Para resolver esses desafios precisaremos de novas ferramentas e técnicas, bem como de maneiras inovadoras de combinar e usar métodos de engenharia de software existentes.
+            
+
+    1.5 Baseado em seu conhecimento de alguns tipos de aplicações discutidos na Seção 1.1.2, explique, com exemplos, por que tipos de aplicações diferentes requerem técnicas especializadas de engenharia de software para apoiar seu projeto e desenvolvimento.
+        R:
+        ---
+            Utilizamos diferentes técnicas de engenharia de software para cada tipo de sistema, porque cada software tem características bastante diversas. Por exemplo, um sistema de controle embutido em um automóvel é de segurança crítica e é gravado em memória ROM quando instalado no veículo. Por isso, sua alteração é muito cara. Tal sistema necessita de verificação e validação muito extensas para que as chances de ter de fazer um recall de carros depois de vendidos para correção de software sejam minimizadas.
+
+
+    1.6 Explique por que existem ideias fundamentais na engenharia de software que se aplicam a todos os tipos de sistemas.
+        R:
+        ---
+           As ideias fundamentais da engenharia de software são universalmente aplicáveis para todos os tipos de desenvolvimento de sistemas. Esses fundamentos incluem processos de software, confiança, proteção, requisitos e reúso.
+
+
+    1.7 Explique como o uso universal da Internet mudou os sistemas de software.
+        R:
+        ---
+             Por volta do ano 2000, a Internet começou a evoluir, e mais e mais recursos passaram a ser adicionados aos navegadores. Isso significa que sistemas Web poderiam ser desenvolvidos e que, em vez de ter uma interface de usuário específica, poderiam ser acessados por um navegador. Isso levou ao desenvolvimento de uma enorme quantidade de novos produtos de software que ofereciam serviços inovadores e que eram acessados através da Internet.
+
+
+    1.8 Discuta se os engenheiros profissionais devem ser certificados da mesma forma que médicos e advogados.
+        R:
+        ---
+            Engenheiros de software têm responsabilidades com a profissão de engenharia e com a sociedade. Eles não devem se preocupar apenas com as questões técnicas.
+
+
+    1.9 Para cada uma das cláusulas no Código de Ética da ACM/IEEE mostradas no Quadro 1.1, sugira um exemplo adequado para ilustrar.
+
+    1.10 Para ajudar a combater o terrorismo, muitos países estão planejando desenvolver, ou já desenvolveram, sistemas computacionais que rastreiam grandes números de cidadãos e suas ações. Obviamente, isso tem implicações nas questões da privacidade. Discuta a ética de se trabalhar desenvolvendo esse tipo de sistema.
